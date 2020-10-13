@@ -11,4 +11,4 @@ Topics Covered:
 
 These challenges are for beginners or people who are just getting into programming. 
 
-**More Update to Come**
+**More Updates to Come**
