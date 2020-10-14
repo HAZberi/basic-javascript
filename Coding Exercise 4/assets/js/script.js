@@ -18,8 +18,6 @@ var mark = {
 };
 john.bmiCalc(); //the method needs to be executed to create the BMI property for john object. Otherwise john.bmi will be undefined.
 mark.bmiCalc(); //the method needs to be executed to create the BMI property for mark object. Otherwise mark.bmi will be undefined.
-console.log(john);
-console.log(mark);
 //using ternary operator
 
 john.bmi > mark.bmi

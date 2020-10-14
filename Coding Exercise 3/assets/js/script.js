@@ -11,7 +11,6 @@ function tipCalculator(bill) {
     ? 0.15 * bill
     : 0.1 * bill; //the use of ternary operator 'chain if else'
 }
-console.log(tipCalculator(10));
 
 tipArray.push(tipCalculator(bill1));
 tipArray.push(tipCalculator(bill2));
